@@ -1,0 +1,6 @@
+{
+  "name": "3D Cyber Cube Matrix",
+  "description": "Interactive 3D glowing cube matrix replicating dark isometric cuboid terrain with hover animation, circuit glowing edges, wave physics, and customizable visual controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
